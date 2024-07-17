@@ -4,6 +4,7 @@ Designed a PCB for real time clock(RTC) display.
 Real-Time Clock (RTC) using ESP32 involves utilizing the ESP32 microcontroller's capabilities to keep track of time accurately. Here's a typical setup and functionality:
 
 Functionality: The RTC module provides accurate timekeeping even when the ESP32 is powered off. The ESP32 periodically synchronizes its time with the RTC module to maintain accuracy.
+
 Integration: ESP32 interacts with the RTC module via I2C communication protocol, reading and setting the time as needed.
 
 Designing PCB using EasyEDA:
